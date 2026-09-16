@@ -70,7 +70,26 @@ Examples:
 
 ## Project status
 
-In progress
+Completed.
+The lab was configured, secured, tested, and documented.
+
+Validation included:
+
+- VLAN segmentation
+- Inter-VLAN routing
+- HSRP gateway redundancy
+- OSPF routing
+- EtherChannel/LACP link redundancy
+- ACL-based traffic filtering
+- Port Security
+- DHCP Snooping
+- Dynamic ARP Inspection
+- Centralized Syslog
+- DHCP/DNS/FTP/TFTP services
+- EtherChannel failure testing
+- OSPF failure testing
+- HSRP failover testing
+- Troubleshooting and recovery validation
 
 ## Skills Demonstrated
 
