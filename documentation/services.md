@@ -8,6 +8,7 @@ SERVER1 provides centralized DHCP services.
 
 ```text
 192.168.20.10
+```
 
 ## DNS
 
@@ -17,6 +18,7 @@ SERVER2 provides DNS services.
 
 ```text
 192.168.20.11
+```
 
 | Hostname | IP Adress |
 |----------|-----------|
@@ -35,6 +37,7 @@ SERVER3 provides FTP and TFTP services.
 
 ```text
 192.168.20.12
+```
 
 ## Syslog
 
